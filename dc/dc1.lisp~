@@ -1,3 +1,0 @@
-(defun add-k (k list)
-  (write list)
-  )
