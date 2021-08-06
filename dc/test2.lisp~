@@ -1,0 +1,4 @@
+(defun list-length (list)
+  if list
+  (1+ (list-length (cdr list)))
+  0)
